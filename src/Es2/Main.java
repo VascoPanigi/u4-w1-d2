@@ -1,6 +1,6 @@
 package Es2;
 
-public class Main2 {
+public class Main {
     public static void main(String[] args) {
         System.out.println(convertToLettersSmallNumbers(10));
     }

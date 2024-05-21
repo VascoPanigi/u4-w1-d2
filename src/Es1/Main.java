@@ -1,6 +1,6 @@
 package Es1;
 
-public class Main1 {
+public class Main {
     public static void main(String[] args) {
         System.out.println(oddOrEvenStr("gabibbo"));
         System.out.println(oddOrEvenStr("gabobi"));

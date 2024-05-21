@@ -2,7 +2,7 @@ package Es4;
 
 import java.util.Scanner;
 
-public class Main4 {
+public class Main {
     public static void main(String[] args) {
         countdown();
     }
@@ -13,7 +13,7 @@ public class Main4 {
         int value = Integer.parseInt(sc.nextLine());
         for (int i = value; i >= 0; i--) {
             System.out.println(i);
-            
+
         }
         return value;
     }
